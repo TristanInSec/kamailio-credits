@@ -21,6 +21,7 @@ Please make the pull request to update the list of credits alphabetically.
 | Name                | Alias - Username | Organization | Years       | Scope Of Work   | Short Description         |
 |---------------------|------------------|--------------|-------------|-----------------|---------------------------|
 | Haruto Kimura       | HarutoKimura     | Stella       | 2026        | Security        | Code analysis |
+| Olivier Laflamme    | Boschko          | Pwno         | 2026        | Security        | Vulnerability research and fuzzing |
 
 
 ## Contact
