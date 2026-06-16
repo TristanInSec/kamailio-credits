@@ -18,10 +18,12 @@ Please make the pull request to update the list of credits alphabetically.
 
 ## Credits
 
+
 | Name             | Alias - Username | Organization                                           | Years | Scope Of Work | Short Description |
 |------------------|------------------|--------------------------------------------------------|-------|---------------|-------------------|
 | Alfred Farrugia  |                  | [Enable Security](https://www.enablesecurity.com/)     | 2026  | Security      | Security analysis |
 | Haruto Kimura    | HarutoKimura     | Stella                                                 | 2026  | Security      | Code analysis     |
+| Olivier Laflamme    | Boschko          | Pwno         | 2026        | Security        | Vulnerability research and fuzzing |
 | Sandro Gauci     |                  | [Enable Security](https://www.enablesecurity.com/)     | 2026  | Security      | Security analysis |
 
 
